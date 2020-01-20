@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="topsis-yash-saxena",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python pip package to apply topsis approach to rank the entries in a dataset",
     long_description=readme(),
     long_description_content_type="text/markdown",
